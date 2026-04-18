@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C6FF,100:FF00CC&text=Nikita%20Moon&fontSize=45&fontColor=BFE9FF&fontAlignY=35&desc=Data%20Analyst%20%7C%20Power%20BI%20Developer&descAlignY=55&descSize=18&descColor=BFE9FF)
+![header](https://capsule-render.vercel.app/api?type=waving&height=350&color=0:00C6FF,100:FF00CC&text=Nikita%20Moon&fontSize=55&fontColor=BFE9FF&fontAlignY=40&desc=Data%20Analyst%20%7C%20Power%20BI%20Developer&descAlignY=60&descSize=22&descColor=BFE9FF)
 
 ## 👋 Hi there, I'm Nikita Moon
 
