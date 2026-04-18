@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C6FF&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Power+BI+%7C+SQL+%7C+Python;Building+Dashboards+That+Drive+Decisions" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FFA500,100:00FF7F"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nikita-moon-5532a2154/">
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FFA500,100:00FF7F"/>
 
 ## 👩‍💻 About Me  
 
@@ -28,7 +28,7 @@
 📊 Skilled in Power BI, SQL, and data storytelling  
 🚀 Focused on building dashboards that drive business decisions  
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FFA500,100:00FF7F"/>
 
 ## 🚀 Featured Projects
 
@@ -82,7 +82,7 @@
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FFA500,100:00FF7F"/>
 
 ## 🛠️ Technical Skills  
 
@@ -94,7 +94,7 @@
   <img src="https://img.shields.io/badge/Pandas-FF00CC?style=flat&logo=python&logoColor=white"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FFA500,100:00FF7F"/>
 
 ## 🌟 Key Achievements  
 
@@ -103,8 +103,8 @@
 📊 Transformed complex data into actionable insights  
 🤝 Contributed to team success and collaboration  
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FFA500,100:00FF7F"/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FFA500,100:00FF7F"/>
 </p>
