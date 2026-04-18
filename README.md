@@ -1,73 +1,110 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Nikita%20Moon&fontSize=45&fontAlignY=35&desc=Data%20Analyst%20%7C%20Power%20BI%20Developer&descAlignY=55)
-## Hi there, I'm Nikita Moon 👋
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C6FF,100:FF00CC&text=Nikita%20Moon&fontSize=45&fontColor=BFE9FF&fontAlignY=35&desc=Data%20Analyst%20%7C%20Power%20BI%20Developer&descAlignY=55&descSize=18&descColor=BFE9FF)
+
+## 👋 Hi there, I'm Nikita Moon
 
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Power+BI+%7C+SQL+%7C+Python;Building+Dashboards+That+Drive+Decisions />" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C6FF&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Power+BI+%7C+SQL+%7C+Python;Building+Dashboards+That+Drive+Decisions" />
 </div>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/nikita-moon-5532a2154/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white">
-  <a href="mailto:nikitamoon805@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/nikita-moon-5532a2154/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Portfolio-FF00CC?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="mailto:nikitamoon805@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00C6FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-##  About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+## 👩‍💻 About Me  
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### 🏆 [Visit My GitHub] (https://github.com/NikitaaMoon)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-      
-## 🔭 What I'm Currently Working On 
-
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
+💙 Data Analyst passionate about transforming raw data into meaningful insights  
+📊 Skilled in Power BI, SQL, and data storytelling  
+🚀 Focused on building dashboards that drive business decisions  
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-## 🌱 Currently Learning 
+## 🚀 Featured Projects
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+<table>
+<tr>
+<td align="center">
 
-## 🛠️ Technical Skillset
+<a href="YOUR_PROJECT_LINK">
+<img src="https://via.placeholder.com/300x180.png?text=Sales+Dashboard" width="300px" style="border-radius:12px;" />
+</a>
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+<br><b style="color:#BFE9FF;">📊 Sales Dashboard</b><br>
+<sub>Power BI | DAX | KPIs</sub>
 
-#### Data Analysis & Visualization
+</td>
+
+<td align="center">
+
+<a href="YOUR_PROJECT_LINK">
+<img src="https://via.placeholder.com/300x180.png?text=Marketing+Analysis" width="300px" style="border-radius:12px;" />
+</a>
+
+<br><b style="color:#BFE9FF;">📈 Marketing Analysis</b><br>
+<sub>Python | Pandas</sub>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<a href="YOUR_PROJECT_LINK">
+<img src="https://via.placeholder.com/300x180.png?text=Forecasting+Model" width="300px" style="border-radius:12px;" />
+</a>
+
+<br><b style="color:#BFE9FF;">🔮 Forecasting Model</b><br>
+<sub>Machine Learning | Python</sub>
+
+</td>
+
+<td align="center">
+
+<a href="YOUR_PROJECT_LINK">
+<img src="https://via.placeholder.com/300x180.png?text=Sustainability+Dashboard" width="300px" style="border-radius:12px;" />
+</a>
+
+<br><b style="color:#BFE9FF;">♻️ Sustainability Dashboard</b><br>
+<sub>Power BI | KPI Tracking</sub>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+## 🛠️ Technical Skills  
+
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
-</p>
-
-#### Programming & Automation
-<p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/Pandas-Advanced-3776AB?style=flat&logo=python&logoColor=white" alt="Pandas Skill Badge">
-  <img src="https://img.shields.io/badge/NumPy-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="NumPy Skill Badge">
-  <img src="https://img.shields.io/badge/Matplotlib-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Matplotlib Skill Badge">
-  <img src="https://img.shields.io/badge/Seaborn-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Seaborn Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-</p>
-
-#### Business Intelligence & Analytics
-<p>
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/SQL-00C6FF?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-FF00CC?style=flat&logo=powerbi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-4FACFE?style=flat&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-00C6FF?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-FF00CC?style=flat&logo=python&logoColor=white"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+## 🌟 Key Achievements  
+
+🚀 Built end-to-end Power BI dashboards independently  
+⏱️ Delivered projects ahead of deadlines  
+📊 Transformed complex data into actionable insights  
+🤝 Contributed to team success and collaboration  
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
