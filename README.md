@@ -1,31 +1,39 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Nikita%20Moon&fontSize=45&fontAlignY=35&desc=Data%20Analyst%20%7C%20Power%20BI%20Developer&descAlignY=55)
 ## Hi there, I'm Nikita Moon 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Power+BI+%7C+SQL+%7C+Python;Building+Dashboards+That+Drive+Decisions />" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://www.linkedin.com/in/nikita-moon-5532a2154/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://69be6cadb8d2bc2e21ccfdfc--hilarious-pasca-037fff.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-My_Channel-red?style=for-the-badge&logo=y"></a>
+  <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white">
   <a href="mailto:nikitamoon805@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ##  About Me 
 I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
 
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 https://github.com/NikitaaMoon)
+### 🏆 [Visit My GitHub] (https://github.com/NikitaaMoon)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
       
 ## 🔭 What I'm Currently Working On 
 
 - **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 🌱 Currently Learning 
 
@@ -61,3 +69,5 @@ My focus is on building dashboards that get used, automating repetitive tasks to
   <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
