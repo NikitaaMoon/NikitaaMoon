@@ -108,8 +108,6 @@ learning_path = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=4A90E2&style=flat-square)
-
 **⭐ Open to data analysis projects, dashboard development, and collaboration opportunities ⭐**
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4A90E2,100:50C9C3&section=footer)
