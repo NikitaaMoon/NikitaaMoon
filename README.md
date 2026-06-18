@@ -84,7 +84,11 @@ learning_path = {
 
 https://www.credly.com/badges/c3061b03-97f5-4135-9b76-aee537bbcc48/public_url
 
-https://images.credly.com/size/340x340/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob
+<h2>🏆 Certifications</h2>
+
+<a href="https://www.credly.com/badges/c3061b03-97f5-4135-9b76-aee537bbcc48/public_url">
+  <img src="images/dp600-badge.png" width="180">
+</a>
 
 ---
 
