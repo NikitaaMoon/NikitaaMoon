@@ -82,13 +82,11 @@ learning_path = {
 
 🏅 Microsoft Certification Badge
 
-https://www.credly.com/badges/c3061b03-97f5-4135-9b76-aee537bbcc48/public_url
-
-<h2>🏆 Certifications</h2>
-
 <a href="https://www.credly.com/badges/c3061b03-97f5-4135-9b76-aee537bbcc48/public_url">
-  <img src="images/dp600-badge.png" width="180">
+  <img src="https://github.com/NikitaaMoon/NikitaaMoon/blob/main/ai-skills-fest-2026.png" width="180">
 </a>
+
+🔗 https://www.credly.com/badges/c3061b03-97f5-4135-9b76-aee537bbcc48/public_url
 
 ---
 
