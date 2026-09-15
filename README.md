@@ -1,115 +1,82 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:4A90E2,100:50C9C3&text=Nikita%20Moon&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4A90E2,100:50C9C3&text=Nikita%20Moon&fontSize=45&fontColor=ffffff&fontAlignY=40)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Business+Intelligence;Power+BI+Developer;Turning+Data+into+Insights)](https://git.io/typing-svg)
+<h3>Power BI Developer | Data Analytics</h3>
 
 </div>
 
 ---
 
-## 👋 About Me
+## About Me
 
-I'm a Data Analyst based in Nagpur, specializing in creating interactive dashboards and delivering data-driven solutions. I'm passionate about turning raw data into compelling stories that help businesses make informed decisions.
+I build interactive Power BI dashboards, write optimized SQL, and use Python for data analysis, with a focus on turning raw data into clear, decision-ready insights.
 
-- 📊 Building end-to-end Power BI dashboards
-- 🔍 Writing optimized SQL queries for data extraction
-- 🐍 Analyzing data with Python (Pandas, NumPy, Matplotlib, Seaborn)
-- 📈 Creating visualizations that communicate insights clearly
+
+- Focus areas: Power BI and DAX, SQL data modeling, Python-based analysis, Microsoft Fabric
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DAX-217346?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_Query-217346?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📊 Sales Performance Dashboard
-Interactive Power BI dashboard tracking 15+ KPIs with real-time sales data, regional comparisons, and revenue forecasting.  
-**Tech Stack:** Power BI, DAX, SQL
+**Education Analytics Dashboard (Power BI)**
+End-to-end dashboard built on a MySQL source via ODBC, with Python and Pandas used for data cleaning and a star schema model spanning multiple fact and dimension tables.
 
-### 📈 Marketing Campaign Analysis
-Comprehensive analysis of marketing campaigns using Python, resulting in 25% ROI improvement through customer segmentation and A/B testing insights.  
-**Tech Stack:** Python, Pandas, Matplotlib, Seaborn
+**Manufacturing Predictive Maintenance (Python)**
+Data science project applying predictive modeling techniques to manufacturing sensor and maintenance data.
 
-### 🔮 Demand Forecasting Model
-Machine learning model for inventory optimization with 90% prediction accuracy using time series analysis.  
-**Tech Stack:** Python, Pandas, NumPy, scikit-learn
+**E-Commerce Analytics (SQL)**
+Analytics project built in T-SQL, covering data extraction and business-focused reporting queries.
 
-### ♻️ Sustainability Metrics Dashboard
-ESG performance tracking dashboard monitoring carbon footprint, resource consumption, and sustainability goals.  
-**Tech Stack:** Power BI, SQL
+**Devanagari Manuscript OCR Research**
+Explored OCR approaches for historical Devanagari manuscripts, including a review of the CURIO system from IIIT Hyderabad, and built a Python implementation targeted at Google Colab and Kaggle.
 
 ---
 
-## 🏆 Key Achievements
+## Achievements
 
-- ✅ Built 20+ production-ready Power BI dashboards independently
-- ✅ Optimized data models reducing dashboard refresh time by 40%
-- ✅ Delivered insights that improved operational efficiency by 15%
-- ✅ 100% on-time project delivery record
-- ✅ Processed and analyzed datasets with 1M+ records
-
----
-
-## 📚 Currently Learning
-
-```python
-learning_path = {
-    "Advanced_ML": "Machine Learning techniques",
-    "Cloud": ["Azure", "AWS"],
-    "Big_Data": ["Spark", "Hadoop"],
-    "Advanced_DAX": "Complex calculations"
-}
-```
+- Built 33+ Power BI dashboards, including dashboards with Row-Level Security (RLS) implementation
+- Passed the Microsoft PL-300 (Power BI Data Analyst) certification exam with a score of 940
+- Studied Microsoft Fabric fundamentals (OneLake, Lakehouse vs. Warehouse, Direct Lake mode, deployment pipelines) while preparing for DP-600
+- Completed a Power BI internship with Forsight
 
 ---
 
 ## Certifications
 
-🏅 Microsoft Certification Badge
-
-<a href="https://www.credly.com/badges/c3061b03-97f5-4135-9b76-aee537bbcc48/public_url">
-  <img src="https://github.com/NikitaaMoon/NikitaaMoon/blob/main/ai-skills-fest-2026.png" width="180">
-</a>
-
-🔗 https://www.credly.com/badges/c3061b03-97f5-4135-9b76-aee537bbcc48/public_url
+Microsoft PL-300: Power BI Data Analyst — Passed
+Microsoft AI-901: Azure AI Fundamentals — In Progress
 
 ---
 
-## 📫 Connect With Me
+## Connect
 
-<p align="center">
-  <a href="mailto:nikitamoon805@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nikita-moon-5532a2154/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
+Email: nikitamoon805@gmail.com
+LinkedIn: [linkedin.com/in/nikita-moon-5532a2154](https://www.linkedin.com/in/nikita-moon-5532a2154/)
+Portfolio: [View Portfolio](https://6a981c320ae4eb7bdf908ad5--precious-chebakia-c79494.netlify.app/)
 
 ---
 
 <div align="center">
 
-**⭐ Open to data analysis projects, dashboard development, and collaboration opportunities ⭐**
+<sub>Open to data analysis projects, dashboard development, and collaboration opportunities.</sub>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4A90E2,100:50C9C3&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=0:4A90E2,100:50C9C3&section=footer)
 
 </div>
