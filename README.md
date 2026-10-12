@@ -1,3 +1,9 @@
+<div align="center">
+
+Show Image
+
+<h3>Power BI Developer | Data Analytics</h3> </div>
+
 # Nikita Moon
 
 **Power BI Developer | Data Analytics**
@@ -64,4 +70,10 @@ Relational banking database with **12+ stored procedures**, views, and advanced 
 
 ---
 
-*Open to data analysis projects, dashboard development, and collaboration opportunities.*
+<div align="center">
+
+<sub>Open to data analysis projects, dashboard development, and collaboration opportunities.</sub>
+
+Show Image
+
+</div>
