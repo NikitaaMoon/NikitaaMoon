@@ -1,8 +1,10 @@
 <div align="center">
 
-Show Image
+![Header](header.svg)
 
-<h3>Power BI Developer | Data Analytics</h3> </div>
+</div>
+
+---
 
 # Nikita Moon
 
