@@ -1,14 +1,8 @@
 <div align="center">
 
-![Header](header.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:4A90E2,100:50C9C3&text=Nikita%20Moon&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Power%20BI%20Developer%20%7C%20Data%20Analytics&descAlignY=58&descSize=20" width="100%" alt="Nikita Moon - Power BI Developer | Data Analytics" />
 
 </div>
-
----
-
-# Nikita Moon
-
-**Power BI Developer | Data Analytics**
 
 ---
 
@@ -76,6 +70,6 @@ Relational banking database with **12+ stored procedures**, views, and advanced 
 
 <sub>Open to data analysis projects, dashboard development, and collaboration opportunities.</sub>
 
-Show Image
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:4A90E2,100:50C9C3&section=footer" width="100%" alt="Footer" />
 
 </div>
