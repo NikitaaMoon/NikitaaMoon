@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6A11CB,100:B57BFF&text=Nikita%20Moon&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Power%20BI%20Developer%20%7C%20Data%20Analytics&descAlignY=58&descSize=20" width="100%" alt="Nikita Moon - Power BI Developer | Data Analytics" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:A670E0,100:D3B0FF&text=Nikita%20Moon&fontSize=50&fontColor=A670E0&fontAlignY=38&desc=Power%20BI%20Developer%20%7C%20Data%20Analytics&descAlignY=58&descSize=20" width="100%" alt="Nikita Moon - Power BI Developer | Data Analytics" />
 
 </div>
 
@@ -70,6 +70,6 @@ Relational banking database with **12+ stored procedures**, views, and advanced 
 
 <sub>Open to data analysis projects, dashboard development, and collaboration opportunities.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6A11CB,100:B57BFF&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:A670E0,100:D3B0FF&section=footer" width="100%" alt="Footer" />
 
 </div>
